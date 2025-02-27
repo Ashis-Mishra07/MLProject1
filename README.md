@@ -1,5 +1,9 @@
 ### End to End ML Project with AWS Deployment
 
-1. Added env file from conda 
-2. created readme file and added to github 
-3. 
+1. Set up the github(Repository)
+    a. new environment
+    b. set.py
+    c. requirements.py
+
+2. Src folder and build the package
+
