@@ -10,4 +10,6 @@
 4. Pipeline folder made to trigger the component folder
 5. Logger  , Exception handling , Utils file made ( to call any function or to save file in cloud or mongodb )
 
-6. 
+6. The jupyter notebook form EDA files and Data Modelling added just for observational purpose 
+
+7.  Data ingestion file is subjecting 
